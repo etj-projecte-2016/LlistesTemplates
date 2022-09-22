@@ -3,6 +3,7 @@
 #define NODE_H
 
 #include <stdlib.h>
+#include <stddef.h>
 
 template<class T>
 class Node
